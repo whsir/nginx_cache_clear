@@ -1,0 +1,2 @@
+# nginx_cache_clear
+nginx_cache_clear_script
