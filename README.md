@@ -1,2 +1,2 @@
 # nginx_cache_clear
-nginx_cache_clear_script
+一个nginx缓存清除的脚本，可以指定文件类型或目录进行缓存清除
